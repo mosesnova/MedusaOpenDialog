@@ -1,0 +1,2 @@
+D:\Windows-classic-samples-master\Samples\Win7Samples\begin\LearnWin32\OpenDialogBox\cpp\Debug\OpenDialogBox.exe
+D:\Windows-classic-samples-master\Samples\Win7Samples\begin\LearnWin32\OpenDialogBox\cpp\Debug\OpenDialogBox.pdb
